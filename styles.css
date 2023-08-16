@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+p1,p3{
+	display: block;
+	font-color: blue ;
+	background-color:#eee;
+	Font-family: Arial;
+	Font-size: 20px;
+	
+}
+
+p2,p4{
+	display: block;
+	padding:10px
+}
